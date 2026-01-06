@@ -1,0 +1,15 @@
+# Large course materials
+TLTK/
+slides/
+
+# Data / Models
+data/
+models/
+
+# Large files
+*.zip
+*.pdf
+*.h5
+*.ckpt
+*.pt
+
